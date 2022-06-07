@@ -7,6 +7,8 @@ My usual activities:
 
 - 🔭 I’m still learning :)
 
+https://github-readme-codewars-stats.herokuapp.com/api/?imac1=vanhaaggen&badge&colormode=dark_mode
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=imac1&theme=tokyonight&show_icons=true&count_private=true)
 
 
