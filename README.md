@@ -17,7 +17,7 @@ My usual activities:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imac1&label=Profile%20views&color=0e75b6&style=flat" alt="imac1" /> </p>
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="240" height="135" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 </p>
 
 
