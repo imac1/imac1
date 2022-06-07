@@ -15,4 +15,9 @@ My usual activities:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imac1&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=imac1&label=Profile%20views&color=0e75b6&style=flat" alt="imac1" /> </p>
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
 
