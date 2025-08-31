@@ -24,5 +24,8 @@ My usual activities:
   <img src="https://shorturl.at/NSlMm" width="100"/><img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIyMjM1NDgsIm5iZiI6MTczMjIyMzI0OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDIxMDcyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNzMyMGU0NDczNzdkOTczZWM0MjM2MWNiNWVjZDI4YWQ4OWEzZDYwMDhmYmE5ZWE1MGNmMzUzY2QxN2VhZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ue7vlYuiBlIAqtIQo6Ub5-tGlIbSAyDQj4tESpiLIw0" width="100"><br><br><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="100">
 </p>
 <br>
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/91daca66-0854-4e95-a768-67596f19d034/thumbnail" >
+</p>
 
 
